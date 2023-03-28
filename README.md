@@ -53,3 +53,9 @@ The json.xsl file is an XSLT stylesheet used to transform the XML data obtained 
   </xsl:template>
 </xsl:stylesheet>
 ```
+
+## License
+MIT
+
+## Author
+Kenta Goto
