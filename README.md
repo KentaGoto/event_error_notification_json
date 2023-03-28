@@ -33,7 +33,7 @@ endlocal
 
 The json.xsl file is an XSLT stylesheet used to transform the XML data obtained from the WMIC command into JSON format.
 
-```x
+```xsl
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl">
   <xsl:output method="text" indent="yes"/>
